@@ -1,0 +1,268 @@
+body {
+   font-family: 'Fjalla One', sans-serif;
+}
+
+/* Containers */
+
+.alert-container {
+    
+}
+
+.callout-container {
+    height: 100vh;
+    
+    background: url('../images/whiskeyGlass.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  
+  display: flex;
+  align-items: center;
+}
+
+.quotes-container {
+    
+    
+}
+
+.content-container {
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+
+/* features */
+
+.features-container {
+    
+    background-color: #b16310;
+    color: #f9dbbc;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.btn-default {
+    color: #333;
+    background-color: powderblue;
+    border-color: #31cae0;
+    border-radius: 18px;
+}
+
+.features-container .text-uppercase {
+    text-align: center;
+    
+}
+
+.block-devider-white {
+    width: 30px;
+    height: 6px;
+    border: 0px;
+    background-color: #f9dbbc;
+}
+
+
+.label-success {
+    background-color: #b0e0e6;
+    color: #1f1f1f;
+    border-color: #31cae0;
+    border-radius: 14px;
+}
+
+.feature {
+    text-align: center
+    
+}
+
+
+.glyphicon {
+    display: block;
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+.tables-container {
+    
+}
+
+
+/* Navbar */
+
+.navbar {
+    margin-bottom: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1;
+    background-color: transparent;
+    border: 0;
+}
+
+.navbar-default .navbar-collapse {
+    border-color: transparent;
+}
+
+
+.navbar-default .navbar-collapse:hover {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.navbar-default .navbar-toggle:focus, 
+.navbar-default .navbar-toggle:hover {
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.navbar-default .navbar-toggle:hover {
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.navbar-default .navbar-toggle {
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: antiquewhite;
+}
+
+
+.navbar .navbar-brand {
+    font-weight: bold;
+    color: antiquewhite;
+}
+
+.navbar-default .navbar-nav a {
+    font-weight: bold;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+    color: antiquewhite;
+}
+
+.navbar-default .navbar-nav>.active>a, 
+.navbar-default .navbar-nav>.active>a:focus, 
+.navbar-default .navbar-nav>.active>a:hover {
+    color: antiquewhite;
+    background: transparent;
+    border-color: transparent;
+}
+
+.navbar-default .navbar-text {
+    color: #bac1c5;
+}
+
+.navbar-btn {
+    background-color: powderblue;
+    border-color: #30adbf ;
+    border-radius: 15px;
+    width: 80px;
+}
+
+.navbar-btn:hover {
+    background-color: #cefaff;
+    border-color: #31cae0;
+    border-radius: 15px;
+    width: 80px;
+}
+
+/* jumbotron */
+
+.jumbotron {
+    background-color: transparent;
+}
+
+.jumbotron h1 {
+    color: antiquewhite;
+    font-weight: bold;
+    margin-bottom: 30px;
+    
+}
+
+.jumbotron .lead {
+    color: #bac1c5;
+}
+
+.jumbotron mark {
+    background-color: powderblue;
+    color: #313131;
+}
+
+
+.jumbotron small {
+         font-size: 60%;
+    
+}
+
+.jumbotron .text-muted {
+    color: #c3c1be;
+
+}
+
+.jumbotron .btn-success {
+    color: #1f1f1f;
+    background-color: #b0e0e6;
+    border-color: #30adbf;
+    border-radius: 24px;
+    width: 120px;
+}
+
+.jumbotron .btn-success:hover {
+    color: #1f1f1f;
+    background-color: #cefaff;
+    border-color: #31cae0;
+}
+
+
+/* block-deviders */
+
+.block-devider {
+    width: 150px;
+    height: 6px;
+    border: 0px;
+    background-color: #b16310;
+}
+
+/* Alert */
+
+.col-xs-12 {
+    padding-left: 0;
+    padding-right: 0;
+    }
+
+
+.site-wide-alert {
+    padding: 0px;
+    margin: 0px;
+    background-color: #b7a00b;
+    color: #42280c;
+    border: 2px solid transparent;
+    border-radius: 0px;
+}
+
+
+/* page headings */
+
+.page-header {
+    margin-bottom: 0;
+    border-bottom: 0;
+    text-align: center;
+}
+
+.page-header h2 {
+    margin-top: 0;
+}
+
+.block-devider-small {
+    width: 30px;
+    height: 6px;
+    border: 0px;
+    background-color: #1f1f1f;
+}
+
+
+
+
+ 
